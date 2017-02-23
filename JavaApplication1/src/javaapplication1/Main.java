@@ -15,7 +15,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Sto provando a pushare un programma perchè non mi ricordo come si carica un progetto su GitHub");
+        System.err.println("Bravo che non ti ricordi")
     }
     
 }
